@@ -1,3 +1,4 @@
+![Image](https://github.com/user-attachments/assets/c8012f41-ffd9-4ba4-8ddd-4aea94607df0)
 # ChatGPT Integration Demo
 
 ## Overview
